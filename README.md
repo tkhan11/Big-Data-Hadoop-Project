@@ -26,7 +26,7 @@ hadoop com.sun.tools.javac.Main -d classfiles Alljavaclasses
 here it will compile the javaclass and create the class files in an alredy created folder named classfiles
 
 
-# To create the jar files of all class files
+# To create the jar file of all class files
 
 for this we have to be in the folder where all class files are present in this case we have to be in classfiles folder
 
