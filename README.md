@@ -5,8 +5,8 @@ Big Data Hadoop framework project for analysis of superstore sales data to find 
 Dependencies: Cloudera Hadoop framework running on VMWARE
 
 Prerequisite:
-* First we have to create a input directory named Superstoredata at HDFS and then we have to put 
-superstore.csv ,transaction.csv and customer.csv in it.
+* First we have to create an input directory named Superstoredata at HDFS and then we have to put 
+superstore.csv ,transaction.csv and customer.csv on it.
 
 * For save Button to work you have to create a folder named Reports at /home/cloudera/Desktop/
 
